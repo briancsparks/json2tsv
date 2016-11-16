@@ -1,0 +1,19 @@
+{
+  "name": "json2tsv",
+  "version": "0.0.1",
+  "description": "Create tables or tab-delimited data from JSON.",
+  "main": "json2tsv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briancsparks/json2tsv.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/briancsparks/json2tsv/issues"
+  },
+  "homepage": "https://github.com/briancsparks/json2tsv#readme"
+}
