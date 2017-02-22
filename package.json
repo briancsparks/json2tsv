@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/briancsparks/json2tsv#readme",
   "dependencies": {
-    "sgsg": "^0.8.6"
+    "sgsg": "https://github.com/briancsparks/sg/tarball/master"
   }
 }
